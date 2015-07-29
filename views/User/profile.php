@@ -19,7 +19,7 @@
 		<button class="fancyButton" onclick="updateUser(<?php echo $this->userData['id']?>);">Actualizar</button>
 		<button class="fancyButton" onclick="deleteUser(<?php echo $this->userData['id']?>);">Darme de baja</button>
 	</div>
-
+ 
 	<script type="text/javascript">
 		$(function(){
 			$('#closeSessionBtn').click(function(){
