@@ -33,7 +33,7 @@
 				<input type="text" name="email" placeholder="correo-electronico@hotmail.com" required/>
 				<input id="signUpBtn" type="submit"  name="signUpBtn" value="Registrar" required/>
 				<div class="smallText">
-					<span>¿Si estas registrado? <div class="button" id="signInButton">Volver</div> </span> 
+					<span>¿Si estas registrado? <div class="button" id="signInButton">Regresar</div> </span> 
 				</div>
 			</form>
 		</div>
